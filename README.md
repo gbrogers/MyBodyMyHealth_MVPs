@@ -18,4 +18,6 @@ __MVPs__
 **Future:**
 - Note feature to record questions gathered for medical team after reading through personalized resources.
 - App will send notifications to user outside of app to remind them to take their contraceptive method.
+- Further resources in addition to health.gov generated resources regarding sexual health/education gathered from reputable sources.
+- Make passwords hashed/encryped using bcrypt.
 
