@@ -7,6 +7,7 @@ __App Summary__
 
 __MVPs__
 - App will allow users to create account/login/logout. 
+  - Make passwords hashed/encryped using bcrypt.
 - App will allow users to answer questions regarding age, sex, tobacco use, sexual activity, pregnancy status in order to have personalized resources generated for them.
 - App will allow users to save specific items from the provided resources as a todo/read-later item.
 - App will allow users to track the dates they had their period on a calendar format.
@@ -19,5 +20,5 @@ __MVPs__
 - Note feature to record questions gathered for medical team after reading through personalized resources.
 - App will send notifications to user outside of app to remind them to take their contraceptive method.
 - Further resources in addition to health.gov generated resources regarding sexual health/education gathered from reputable sources.
-- Make passwords hashed/encryped using bcrypt.
+
 
