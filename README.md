@@ -21,4 +21,4 @@ __MVPs__
 - App will send notifications to user outside of app to remind them to take their contraceptive method.
 - Further resources in addition to health.gov generated resources regarding sexual health/education gathered from reputable sources.
 
-
+ 
